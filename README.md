@@ -15,6 +15,11 @@
 * 1 х Коробка распределительная из LeroyMerlin - https://leroymerlin.ru/product/korobka-raspredelitelnaya-kruglaya-ekoplast-80h40-mm-cvet-seryy-12464355/
 * 1 х Клейкая лента алюминиевая из LeroyMerlin - https://leroymerlin.ru/product/kleykaya-lenta-alyuminievaya-izobond-82333112/
 * 1 х Шнур с проходным выключателем и вилкой - https://leroymerlin.ru/product/shnur-s-prohodnym-vyklyuchatelem-1-8-m-cvet-belyy-11436459/
+* 1 х Плинтус потолочный С10/20 200х2 см цвет белый (или аналогичный) - https://leroymerlin.ru/product/plintus-potolochnyy-s10-20-200h2-sm-cvet-belyy-16984374/
 
 Схема подключения:
 ![Схема подключения](https://github.com/dbprof/fibo-clock/blob/main/schema.png)
+
+Видео по сборке:
+[![Видео](https://github.com/dbprof/fibo-clock/blob/master/video2.png)](https://youtu.be/R4cUnKBIF1w)
+
