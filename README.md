@@ -21,5 +21,5 @@
 ![Схема подключения](https://github.com/dbprof/fibo-clock/blob/main/schema.png)
 
 Видео по сборке:
-[![Видео](https://github.com/dbprof/fibo-clock/blob/master/video2.png)](https://youtu.be/R4cUnKBIF1w)
+[![Видео](https://github.com/dbprof/fibo-clock/blob/main/video2.png)](https://youtu.be/BIVwhvmibDc)
 
